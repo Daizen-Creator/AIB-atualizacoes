@@ -1,6 +1,6 @@
 {
-  "version": "2.30.0",
-  "sha256": "133f103d114164d16328f0498b8a66970df5c5446d4d1ee2b22a257c1b73a450",
+  "version": "2.31.0",
+  "sha256": "4c9d5a501c11c9e970bf37888680322dc443b8617764764d85a767fb35300a66",
   "date": "2026-07-28",
-  "notes": "Tela de abertura com checklist e atualizacao automatica pelo GitHub"
+  "notes": "Renomeacao para Aib (banco/backups) com migracao segura"
 }
