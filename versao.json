@@ -1,6 +1,6 @@
 {
-  "version": "2.32.0",
+  "version": "2.33.0",
   "sha256": "1156c922625b8dea9d43ac2dacb652d514852621bf094c493a1c3f166e26a923",
   "date": "2026-07-28",
-  "notes": "Logos novas e abertura animada"
+  "notes": "Tela de erro amigavel e CI"
 }
