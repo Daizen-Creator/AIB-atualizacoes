@@ -1,6 +1,6 @@
 {
-  "version": "2.31.0",
-  "sha256": "4c9d5a501c11c9e970bf37888680322dc443b8617764764d85a767fb35300a66",
+  "version": "2.32.0",
+  "sha256": "1156c922625b8dea9d43ac2dacb652d514852621bf094c493a1c3f166e26a923",
   "date": "2026-07-28",
-  "notes": "Renomeacao para Aib (banco/backups) com migracao segura"
+  "notes": "Logos novas e abertura animada"
 }
