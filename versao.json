@@ -1,6 +1,6 @@
 {
-  "version": "2.33.0",
-  "sha256": "1156c922625b8dea9d43ac2dacb652d514852621bf094c493a1c3f166e26a923",
-  "date": "2026-07-28",
-  "notes": "Tela de erro amigavel e CI"
+  "version": "2.34.0",
+  "sha256": "9815a53717d21bec94ad014331796dd4fcfe5aace2453dbc8e16ecc1c7bdcaf4",
+  "date": "2026-08-10",
+  "notes": "Auto-update com o app aberto, ordenacao e Recebi no crediario"
 }
