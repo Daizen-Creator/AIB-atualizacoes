@@ -1,6 +1,6 @@
 {
-  "version": "2.34.0",
-  "sha256": "9815a53717d21bec94ad014331796dd4fcfe5aace2453dbc8e16ecc1c7bdcaf4",
-  "date": "2026-08-10",
-  "notes": "Auto-update com o app aberto, ordenacao e Recebi no crediario"
+  "version": "2.34.1",
+  "sha256": "9545955e72b998c3b0bad57b17581fe3db0180a10d345df79c1c659792ed898d",
+  "date": "2026-08-18",
+  "notes": "Corrige travamento do auto-update (tasklist | find nunca terminava)"
 }
