@@ -1,10 +1,12 @@
 {
   "version": "2.34.2",
-  "sha256": "09c2d4ca00bac3c0bebdc08df2b61fbd0cbc4d58bd251c2bf4b98572a3e6f3e4",
-  "date": "2026-08-18T20:18:55.260Z",
-  "notes": "Auto-update: espera com limite, registro em arquivo e recusa de versao que exige componente ausente",
+  "sha256": "1e5e1c8d784e0e886df76871d30ef0cced1071f2c097675bd530ae671721a0b2",
+  "date": "2026-08-18T20:39:38.338Z",
+  "notes": "Auto-update entrega tambem os componentes nativos: fim das instalacoes manuais",
   "nativos": [
     "@powersync/node",
     "better-sqlite3"
-  ]
+  ],
+  "nativosZip": "nativos.zip",
+  "nativosZipSha256": "4f552118d853ce2fafe374810eb59f0a5c7b74f0cb9312baf99310c7bb68a0f8"
 }
