@@ -1,6 +1,10 @@
 {
-  "version": "2.34.1",
-  "sha256": "9545955e72b998c3b0bad57b17581fe3db0180a10d345df79c1c659792ed898d",
-  "date": "2026-08-18",
-  "notes": "Corrige travamento do auto-update (tasklist | find nunca terminava)"
+  "version": "2.34.2",
+  "sha256": "09c2d4ca00bac3c0bebdc08df2b61fbd0cbc4d58bd251c2bf4b98572a3e6f3e4",
+  "date": "2026-08-18T20:18:55.260Z",
+  "notes": "Auto-update: espera com limite, registro em arquivo e recusa de versao que exige componente ausente",
+  "nativos": [
+    "@powersync/node",
+    "better-sqlite3"
+  ]
 }
